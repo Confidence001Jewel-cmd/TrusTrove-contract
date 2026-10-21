@@ -1539,6 +1539,7 @@ dependencies = [
  "trusttrove-invoice",
  "trusttrove-pool",
  "trusttrove-registry",
+ "trusttrove-test-utils",
 ]
 
 [[package]]
